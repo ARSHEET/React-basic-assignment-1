@@ -1,0 +1,17 @@
+.main-div{
+    position: relative;
+    left: 450px;
+    text-align: left;
+    top: -120px;
+}
+
+.avatar-pos{
+    position: relative;
+    left: auto;
+    top: 100px;
+    width: 200px;
+    height: 200px;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
